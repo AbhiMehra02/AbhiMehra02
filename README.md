@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Abhishek Mehra 👋</h1>
-<h3 align="center">Python Developer | AI Enthusiast /h3>
+<h3 align="center">Python Developer | AI Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/AbhiMehra02">
@@ -22,10 +22,37 @@
 
 ### 🔧 Technologies & Tools
 
-**Languages**: Python, C++, Java, Bash  
-**Libraries**: Scikit-learn, Pandas, NumPy, TensorFlow, OpenCV, PyTorch, Matplotlib, Seaborn  
-**Frameworks**: Flask, Streamlit, LangChain  
-**Tools**: Git, VSCode, Jupyter Notebook, Linux, Google Colab
+#### 🛠️ Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
+</p>
+
+#### 📚 Libraries & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4692B0?style=flat&logo=python&logoColor=white" />
+</p>
+
+#### 🧰 Frameworks & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
 
