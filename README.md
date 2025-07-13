@@ -73,7 +73,3 @@
 
 ---
 
-### ⚡ Fun Fact
-
-> I don't just build AI — I *teach it to be useful, meaningful, and sometimes a bit creative too* 🤖🎨
-
